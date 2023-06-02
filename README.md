@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Joshua and I'm a FullStack developer! 😎
-## Well... not really but I'm learning to reach that objective!
+## Well... not really but I'm working to reach that objective!
 
 ### 🌱 I'm currently learning:
 

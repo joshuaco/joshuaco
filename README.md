@@ -1,11 +1,4 @@
 # Hi there 👋 I'm Joshua and I'm a FullStack developer! 😎
-## Well... not really but I'm working to reach that objective!
-
-### 🌱 I'm currently learning:
-
-### 1. Asynchronous JavaScript 🔁
-### 2. React ⚛
-### 3. SQL 🍃
 
 <!--
 **joshuaco/joshuaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
